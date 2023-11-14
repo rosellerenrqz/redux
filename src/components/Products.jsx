@@ -14,28 +14,28 @@ export default function Products() {
       id: 2,
       name: "Lenovo",
       imageUrl:
-        "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://p4-ofp.static.pub/fes/cms/2023/04/10/fii0c00dla0it1mqdmkkozt4qcxch2923547.png",
       price: 30,
     },
     {
       id: 3,
       name: "Samsung",
       imageUrl:
-        "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://down-ph.img.susercontent.com/file/ph-11134207-7qul3-lfyx74drm1ko65",
       price: 35,
     },
     {
       id: 4,
       name: "HP",
       imageUrl:
-        "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07966250.png",
       price: 40,
     },
     {
       id: 5,
       name: "AOC",
       imageUrl:
-        "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://mmd-aoc2.oss-cn-hongkong.aliyuncs.com/Products/Monitors/G%20Line/G2/C32G2ZE/C32G2ZE_BKL.png",
       price: 45,
     },
   ];
