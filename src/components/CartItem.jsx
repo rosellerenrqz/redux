@@ -31,13 +31,13 @@ export default function CartItem({ id, price, name, total, quantity }) {
         <article>Total: ${total}</article>
         <button
           onClick={decreaseItemQuantity}
-          className="mx-1 mt-3 rounded-lg bg-red-400 px-2 text-lg font-medium hover:opacity-70 active:opacity-50"
+          className="mx-1 mt-3 items-center rounded-lg bg-red-400 px-2 text-lg font-medium text-white hover:opacity-70 active:opacity-50"
         >
           -
         </button>
         <button
           onClick={increaseItemQuantity}
-          className="mx-1 mt-3 rounded-lg bg-blue-400 px-2 text-lg font-medium hover:opacity-70 active:opacity-50"
+          className="mx-1 mt-3 items-center rounded-lg bg-blue-400 px-2 text-lg font-medium text-white hover:opacity-70 active:opacity-50"
         >
           +
         </button>
